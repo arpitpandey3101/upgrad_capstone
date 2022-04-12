@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from flask import Flask,render_template,request
-import model 
+import model_arpit_pandey as model 
 app = Flask('__name__')
 
 valid_users = ['00sab00','1234','zippy','zburt5','joshua','dorothy w','rebecca','walker557','samantha','raeanne','kimmie','cassie','moore222']
