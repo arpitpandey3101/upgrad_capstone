@@ -1,5 +1,4 @@
 gunicorn
-en_core_web_sm
 imblearn==0.8.1
 matplotlib==3.2.2
 nltk==3.2.5
